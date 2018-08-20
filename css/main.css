@@ -1,1 +1,7 @@
 /* Los estilos de tu proyecto */
+body{
+  background-image:url("https://raw.githubusercontent.com/Laboratoria-learning/lab-car-boilerplate/master/assets/images/taxi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
